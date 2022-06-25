@@ -1,0 +1,10 @@
+{
+  "Description": "{\r\n  \"temp\": 18,\r\n  \"date\": \"2022-06-24\",\r\n  \"time\": \"09:26\",\r\n  \"condition_code\": \"27\",\r\n  \"description\": \"Tempo limpo\",\r\n  \"currently\": \"dia\",\r\n  \"cid\": \"\",\r\n  \"city\": \"São Paulo, SP\",\r\n  \"img_id\": \"27\",\r\n  \"humidity\": 67,\r\n  \"wind_speedy\": \"2.06 km/h\",\r\n  \"sunrise\": \"06:48 am\",\r\n  \"sunset\": \"05:29 pm\",\r\n  \"condition_slug\": \"clear_day\",\r\n  \"city_name\": \"São Paulo\"\r\n}",
+  "id": "3f6b27c9-c943-4710-a23b-02700742e3a0",
+  "_rid": "JcEnAICMlzkMAAAAAAAAAA==",
+  "_self": "dbs/JcEnAA==/colls/JcEnAICMlzk=/docs/JcEnAICMlzkMAAAAAAAAAA==/",
+  "_etag": "\"8d025d38-0000-0700-0000-62b6618e0000\"",
+  "_attachments": "attachments/",
+  "_ts": 1656119694,
+  "_lsn": 13
+}
