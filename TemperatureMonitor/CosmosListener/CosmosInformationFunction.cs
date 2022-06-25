@@ -23,7 +23,7 @@ namespace CosmosListener
                 log.LogInformation("Documents modified " + input.Count);
                 log.LogInformation("First document Id " + input[0].Id);
 
-                string path = "C:\\DESENVOLVIMENTO\\Projeto Devops Fiap\\IotInformation.txt";
+                string path = "C:\\IotInformation.txt";
                 File.WriteAllTextAsync(path, input[0].ToString());
 
             }
