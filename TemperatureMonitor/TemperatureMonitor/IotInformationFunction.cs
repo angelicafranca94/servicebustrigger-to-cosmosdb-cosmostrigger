@@ -20,13 +20,7 @@ public class IotInformationFunction
         ILogger log)
     {
         log.LogInformation($"IotInformationFunction trigger function started.");
-
-        //var data = JsonSerializer.Deserialize<Temperature>(message);
-
-        //var dateJson = DateTime.SpecifyKind(data.Date,
-        //                    DateTimeKind.Utc);
-        //data.Date = dateJson;
-
+        
         document = new {Description = message, id = Guid.NewGuid()};
 
         log.LogInformation($"IotInformationFunction trigger function finished.");
