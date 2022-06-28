@@ -6,9 +6,9 @@ using System.Text.Json;
 
 namespace TemperatureControlFunction;
 
-public class IotInformationFunction
+public class ServiceBusListenerIotInformationFunction
 {
-    [FunctionName(nameof(IotInformationFunction))]
+    [FunctionName(nameof(ServiceBusListenerIotInformationFunction))]
     public static void Run(
         [ServiceBusTrigger(
         "%MessageQueueName%", 
