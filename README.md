@@ -1,3 +1,3 @@
-# Monitoramento de dados via Azure Function #
+# Simulação Client #
 
-<p>Aplicativo que escuta filas no Service Bus e armezena o conteúdo da fila no Cosmos DB na Azure. O armazenamento do documento ativa uma function CosmosTrigger e gera uma ação com os dados recuperados do documento. </p>
+<p>Página Web para simular o cliente que está consumindo os dados do CosmosDB. Usado SignalR para atualizaçõa em tempo real </p>
